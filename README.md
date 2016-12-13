@@ -1,3 +1,7 @@
-# hello-world
-Just another repository
-wtf it's really cool
+# stido.h
+
+int main()
+{
+  printf("hello, world");
+  return 0;
+}
